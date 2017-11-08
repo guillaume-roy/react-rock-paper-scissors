@@ -1,0 +1,19 @@
+.ActionItem {
+  cursor: pointer;
+  width: 15em;
+  height: 15em;
+  padding: 2em;
+  box-shadow: 3px 3px 20px 0px rgba(0,0,0,0.75);
+}
+
+.ActionItem:hover {
+  box-shadow: inset 3px 3px 20px 0px rgba(0,0,0,0.75);
+}
+
+.ActionItem:active {
+  background-color: rgba(97, 218, 252, .15);
+}
+
+.ActionItem img {
+  height: 10em;
+}

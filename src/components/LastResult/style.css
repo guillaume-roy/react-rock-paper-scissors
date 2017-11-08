@@ -1,0 +1,21 @@
+.LastResult div {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.LastResult h4 span {
+  text-transform: uppercase;
+}
+
+.LastResult h4 span.win {
+  color: green;
+}
+
+.LastResult h4 span.lose {
+  color: red;
+}
+
+.LastResult h4 span.tie {
+  color: gray;
+}
