@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors
 
-Game developped using React.
+Game developped using React and Redux Store (with [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)).
 
 ## User Story Front
 

@@ -18,4 +18,4 @@ class LastResult extends Component {
   }
 }
 
-export default LastResult;
+export default LastResult
